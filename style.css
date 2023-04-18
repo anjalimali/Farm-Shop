@@ -23,7 +23,7 @@ margin-right: 0 !important;
 } */
 .hero{
     width: 100%;
-    background-image: url('/images/b1.jpg');
+    background-image: url('./images/b1.jpg');
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -72,7 +72,7 @@ margin-right: 0 !important;
 }
 .blog3{
     height: 65vh;
-    background-image: url('/images/blog3.jpg');
+    background-image: url('./images/blog3.jpg');
     background-position: center;
     background-size: cover;
     position: relative;
@@ -96,7 +96,7 @@ margin-right: 0 !important;
   
 }
 .subcrib{
-    background-image: url('/images/b3.jpg');
+    background-image: url('./images/b3.jpg');
     background-position: center;
     background-size: cover;
     height: 90vh;
